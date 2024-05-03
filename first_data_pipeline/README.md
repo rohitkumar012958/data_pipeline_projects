@@ -4,7 +4,7 @@
 
 ### To run this project
 
-* run python file directly into an empt directory.
+* run python file directly into an empty directory.
 * Make sure to import all necessary libraries used in this project.
 * After executing it will create a SQLlite DB as in the repository.
 * Import this DB into SQLlite.
