@@ -7,4 +7,4 @@
 * Import this DB into SQLlite.
 * Select all the columns from wine_table.
 
-## You have run your first data-pipeline. Congratulations...!
+### You have run your first data-pipeline. Congratulations...!
